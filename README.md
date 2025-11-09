@@ -4,7 +4,7 @@
 
 - 此网站主要存放个人世界观相关内容。
 
-- 可通过[此链接](https://rainshadow-oasis.github.io) 前往网站。
+- 可通过[此链接](https://rsd-oasis.github.io) 前往网站。
 
 - 不定期缓慢更新。
 
